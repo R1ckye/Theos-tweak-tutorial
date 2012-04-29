@@ -1,0 +1,9 @@
+Package: com.rickye.tweak
+Name: Tweak
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Rickye
+Author: Rickye
+Section: Tweaks
